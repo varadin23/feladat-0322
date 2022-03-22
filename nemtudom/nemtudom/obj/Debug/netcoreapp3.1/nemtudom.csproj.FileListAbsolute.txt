@@ -1,0 +1,6 @@
+C:\Users\Tanulo\varadi_niki\20220322\nemtudom\nemtudom\obj\Debug\netcoreapp3.1\nemtudom.csproj.AssemblyReference.cache
+C:\Users\Tanulo\varadi_niki\20220322\nemtudom\nemtudom\obj\Debug\netcoreapp3.1\nemtudom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanulo\varadi_niki\20220322\nemtudom\nemtudom\obj\Debug\netcoreapp3.1\nemtudom.AssemblyInfoInputs.cache
+C:\Users\Tanulo\varadi_niki\20220322\nemtudom\nemtudom\obj\Debug\netcoreapp3.1\nemtudom.AssemblyInfo.cs
+C:\Users\Tanulo\varadi_niki\20220322\nemtudom\nemtudom\obj\Debug\netcoreapp3.1\nemtudom.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\varadi_niki\20220322\nemtudom\nemtudom\obj\Debug\netcoreapp3.1\nemtudom.MvcApplicationPartsAssemblyInfo.cache
